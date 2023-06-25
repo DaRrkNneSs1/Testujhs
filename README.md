@@ -1,4 +1,4 @@
-                   # ⛥ - 𝙎𝙊𝙐𝙍𝘾𝙀 𝙎𝙏𝘼𝙍 - ⛥
+                      # ⛥ - 𝙎𝙊𝙐𝙍𝘾𝙀 𝙎𝙏𝘼𝙍 - ⛥
                
 ![STAR-Music](https://telegra.ph/file/d97a20b33c640fe80591c.jpg)
 
@@ -13,7 +13,7 @@
 <a href="https://t.me/SUPP0RT_STAR"><img src="https://img.shields.io/badge/-جروب%20المساعده-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://t.me/S0URCE_STAR"><img src="https://img.shields.io/badge/-المساعده%20قناة-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/S0URCE_STAR"><img src="https://img.shields.io/badge/-قناة%20المساعده-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 تم تطوير و تعريب الملف بواسطة [SIMO](https://t.me/DaRrKNneSs_1) ، [RoWeS](https://t.me/R7_OX)
@@ -23,7 +23,7 @@
 
 
 
-       ─「 [SOURCE STAR](https://t.me/S0URCE_STAR) 」─ 
+─「 [SOURCE STAR](https://t.me/S0URCE_STAR) 」─ 
 
 
   الــمــلــف بــحــقــوق ســورس [ســتار](https://t.me/S0URCE_STAR)
