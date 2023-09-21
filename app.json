@@ -67,6 +67,11 @@
          "required": true,
          "value": ""
       },
+       "EVENT_LOGS": {
+         "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
+         "required": true,
+         "value": ""
+      },
        "START_IMG": {
          "description": "Telegraph link of the image which will be shown at start command.",
          "required": true,
