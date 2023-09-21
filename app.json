@@ -15,7 +15,15 @@
      "telegram-bot", 
      "pyrogram" 
      ], 
-     "stack": "container", "heroku-22",
+     "stack": "container",
+       "addons": [
+      {
+         "options": {
+            "version": "12"
+         },
+         "plan": "heroku-postgresql"
+      }
+   ],
      "env": { 
        "API_ID": { 
          "description": "Get this value from https://my.telegram.org", 
