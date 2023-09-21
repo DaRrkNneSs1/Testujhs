@@ -96,7 +96,7 @@
          "value": "", 
          "required": false 
        }, 
-       "LOG_GROUP_ID": { 
+       "LOG_GROUP_ID","SUPPORT_CHAT": { 
          "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Use only Group. Please don't use Channel ID.", 
          "value": "", 
          "required": true 
